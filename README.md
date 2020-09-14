@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/nalin88/Php-Advance-Poll-System">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/voting-poll-4-542529.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Php-Advance-Poll-System</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
