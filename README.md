@@ -17,6 +17,8 @@
     ·
     <a href="https://github.com/nalin88/Php-Advance-Poll-System/pulls">Request Feature</a>
   </p>
-</p>
+</p> <hr />
+
+<a href="https://ibb.co/6Dh341M"><img src="https://i.ibb.co/6Dh341M/Screenshot-229.png" alt="Screenshot-229" border="0"></a>
 
 
