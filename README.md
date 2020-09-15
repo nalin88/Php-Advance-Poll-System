@@ -19,6 +19,5 @@
   </p>
 </p> <hr />
 
-<a href="https://ibb.co/6Dh341M"><img src="https://i.ibb.co/6Dh341M/Screenshot-229.png" alt="Screenshot-229" border="0"></a>
-
+<a href="https://ibb.co/6Dh341M"><img src="https://i.ibb.co/bNhSr20/Screenshot-229.png" alt="Screenshot-229" border="0"></a>
 
